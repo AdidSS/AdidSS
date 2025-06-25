@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a Mexican Data Scientist passionate about solving problems with a creative and analytical approach.
+I'm a passionate Data Scientist from Mexico focused on using AI and data to create accessible, meaningful, and impactful solutions
 
 ---
 
