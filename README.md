@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a passionate Data Scientist focused on using AI and data to create accessible, meaningful, and impactful solution.
+I'm a passionate Data Scientist focused on using AI and data to create accessible, meaningful, and impactful solutions.
 
 By day, I build machine learning models.  
 By night, I'm either lifting weights at the gym or composing melodies on the piano—because even Data Scientists need a soundtrack (and strong biceps).
@@ -9,7 +9,21 @@ By night, I'm either lifting weights at the gym or composing melodies on the pia
 
 ### 🚀 Projects
 
-*Coming soon...*
+#### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
+
+**Smart planogram tool** 
+
+GIPlan is an innovative tool designed to simplify and improve the implementation of planograms in retail stores. Unlike traditional static diagrams, GIPlan features animated product placements with voice-guided instructions, making the process more intuitive, accessible, and error-resistant.
+Powered by Azure AI services like Azure OpenAI, it transforms product names into clear, natural-sounding voice commands—reducing ambiguity and enhancing efficiency for store staff.
+
+#### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
+
+**Empowering job coaches, enabling careers** 
+
+WorkAble AI is an intelligent platform designed to support employment coaches who work with people with disabilities. By leveraging Azure AI services, the system enhances coach productivity, streamlines administrative tasks, and improves job matching outcomes. Our solution addresses the critical challenge faced by supported employment programs: limited resources for job coaches who must simultaneously manage documentation, deliver personalized training, solve emerging problems, and provide motivational support to participants.
+
+### 
+
 
 ---
 
