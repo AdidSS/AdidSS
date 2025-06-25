@@ -28,8 +28,11 @@ WorkAble AI is an intelligent platform designed to support employment coaches wh
 
 Migra Seguro is a web platform developed for Casa Monarca, a migrant shelter in García, Nuevo León, to securely manage and digitally sign official documents. The system enables users to register, upload, sign, and verify documents using Microsoft Azure technologies like Key Vault for cryptographic signatures and Cosmos DB for secure record storage. Migra Seguro enhances document integrity and traceability, supporting the digital transformation of social organizations with high security standards.
 
-### 
+#### [Simulacion-Plantacion](https://github.com/AdidSS/Migra-Seguro)
 
+**Reforestation Optimization with Genetic Algorithms** 
+
+This project implements a genetic algorithm to design an optimal planting strategy for reforesting a 1-hectare plot with 625 native plant specimens. The algorithm aims to minimize biological competition between species, ensure species requirements are met, and simulate realistic planting conditions—including preexisting vegetation. The algorithm maximizes ecological benefit by minimizing the sum of competition costs across all plant neighbors, while meeting species quotas.
 
 ---
 
