@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-[![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+[![Azure AI Speech](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]
+[![Azure AI Language](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]
+
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
 [![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
 [![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()
