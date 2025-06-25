@@ -13,7 +13,6 @@ I'm a Mexican Data Scientist passionate about solving problems with a creative a
 ### ⚙️ Tech Stack
 
 #### Azure Services
-[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
 [![Azure AI Speech](https://img.shields.io/badge/Azure%20AI%20Speech-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 [![Azure AI Language](https://img.shields.io/badge/Azure%20AI%20Language-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
