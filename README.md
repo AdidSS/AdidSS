@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
+[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()
+[![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-2D6EDF?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
