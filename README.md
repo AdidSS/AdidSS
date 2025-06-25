@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a passionate Data Scientist focused on using AI and data to create accessible, meaningful, and impactful solution. I enjoy tackling complex challenges with a mix of creativity, mathematics, and machine learning.
+I'm a passionate Data Scientist focused on using AI and data to create accessible, meaningful, and impactful solution.
 
 By day, I build machine learning models.  
 By night, I'm either lifting weights at the gym or composing melodies on the piano—because even Data Scientists need a soundtrack (and strong biceps).
