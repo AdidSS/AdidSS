@@ -12,14 +12,6 @@ I'm a Mexican Data Scientist passionate about solving problems with a creative a
 
 ### ⚙️ Tech Stack
 
-#### Azure Services
-[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
-[![Azure AI Speech](https://img.shields.io/badge/Azure%20AI%20Speech-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
-[![Azure AI Language](https://img.shields.io/badge/Azure%20AI%20Language-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
-[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
-[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()
-[![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-2D6EDF?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
-
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -37,6 +29,14 @@ I'm a Mexican Data Scientist passionate about solving problems with a creative a
 #### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### Azure Services
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
+[![Azure AI Speech](https://img.shields.io/badge/Azure%20AI%20Speech-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+[![Azure AI Language](https://img.shields.io/badge/Azure%20AI%20Language-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
+[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()
+[![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-2D6EDF?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
