@@ -22,6 +22,12 @@ Powered by Azure AI services like Azure OpenAI, it transforms product names into
 
 WorkAble AI is an intelligent platform designed to support employment coaches who work with people with disabilities. By leveraging Azure AI services, the system enhances coach productivity, streamlines administrative tasks, and improves job matching outcomes. Our solution addresses the critical challenge faced by supported employment programs: limited resources for job coaches who must simultaneously manage documentation, deliver personalized training, solve emerging problems, and provide motivational support to participants.
 
+#### [Migra-Seguro](https://github.com/AdidSS/Migra-Seguro)
+
+**Trust and security in one place** 
+
+Migra Seguro is a web platform developed for Casa Monarca, a migrant shelter in García, Nuevo León, to securely manage and digitally sign official documents. The system enables users to register, upload, sign, and verify documents using Microsoft Azure technologies like Key Vault for cryptographic signatures and Cosmos DB for secure record storage. Migra Seguro enhances document integrity and traceability, supporting the digital transformation of social organizations with high security standards.
+
 ### 
 
 
