@@ -71,5 +71,8 @@ This project implements a genetic algorithm to design an optimal planting strate
 
 ![Adid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdidSS&show_icons=true&theme=dark)
 
-> By day, I build machine learning models.  
-> By night, I'm either lifting weights at the gym or composing melodies on the piano—because even Data Scientists need a soundtrack (and strong biceps).
+
+<!---
+By day, I build machine learning models.  
+By night, I'm either lifting weights at the gym or composing melodies on the piano—because even Data Scientists need a soundtrack (and strong biceps).
+-->
