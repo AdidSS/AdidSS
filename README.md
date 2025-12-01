@@ -65,11 +65,6 @@ This project implements a genetic algorithm to design an optimal planting strate
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Adid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdidSS&show_icons=true&theme=dark)
 
 
 <!---
