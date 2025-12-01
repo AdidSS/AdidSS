@@ -52,6 +52,7 @@ This project implements a genetic algorithm to design an optimal planting strate
 #### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Azure Services
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
