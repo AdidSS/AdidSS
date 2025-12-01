@@ -6,6 +6,19 @@ I'm a passionate Data Scientist focused on using AI and data to create accessibl
 
 ### 🚀 Projects
 
+#### [Manos en Acción](https://github.com/AdidSS/Manos-en-accion)
+
+**Real Time Sign Language Detection** 
+
+Manos en Acción is a real time classificator of the alphabet in Mexican Sign Language (LSM). The model uses Yolo v8 for hand segmentation and a fine tunned EfficientNet B0 for the classification. Th project shows all the step since the image collection, the **ETL** (Extract, Transform, Load), the partial unfreezing of the last layers of the EfficientNet and the implementation in real time of the final model. It also use some techniques for the video optimization with threading.
+
+#### [AIPB](https://github.com/AdidSS/AIPB))
+
+**Intelligent Loan Approval from Scratch** 
+
+This project develops a machine learning (logistic regression) model implemented from scratch (without the use of external frameworks) and a scikit learn Random Forest Classifier, with the purpose of classifying
+loan applications as approved or rejected.The goal is to show the process of building a classifier, from data preparation, logistic regression programming: cost function (Binary-Cross-Entropy), gradient descent method, to the evaluation of its performance. In addition to its practical application in the banking industry, this project offers a better understanding of how the logistic regression works and a comparison with machine learning models from frameworks like scikit learn
+
 #### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
 **Smart planogram tool** 
