@@ -10,9 +10,11 @@ I'm a passionate Data Scientist focused on using AI and data to create accessibl
 
 **Real Time Sign Language Detection** 
 
-Manos en Acción is a real time classificator of the alphabet in Mexican Sign Language (LSM). The model uses Yolo v8 for hand segmentation and a fine tunned EfficientNet B0 for the classification. Th project shows all the step since the image collection, the **ETL** (Extract, Transform, Load), the partial unfreezing of the last layers of the EfficientNet and the implementation in real time of the final model. It also use some techniques for the video optimization with threading.
+Manos en Acción is a real-time classifier of the alphabet in Mexican Sign Language (LSM). The solution consists of two main parts: hand segmentation using YOLO v8 and image classification using EfficientNet-B0.
+First, I used transfer Learning using the weights of ImageNet, then I applied Feature Extraction using the descripted net above and then I used partial unfreezing of the last layers to Fine tunned the model. Also used some optimizations to provide a fluent video in the interface of the sign detection.
 
-#### [AIPB](https://github.com/AdidSS/AIPB))
+
+#### [AIPB](https://github.com/AdidSS/AIPB)
 
 **Intelligent Loan Approval from Scratch** 
 
